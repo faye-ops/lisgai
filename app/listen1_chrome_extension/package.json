@@ -1,0 +1,26 @@
+{
+  "name": "listen1_chrome_extension",
+  "version": "2.18.0",
+  "description": "one for all free music in china",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dumeng/listen1_chrome_extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dumeng/listen1_chrome_extension/issues"
+  },
+  "homepage": "https://github.com/Dumeng/listen1_chrome_extension#readme",
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "^2.2.1"
+  }
+}
